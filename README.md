@@ -73,14 +73,6 @@ Open the showcase and select **Avoider → Run Validation** with Play mode stopp
 
 Select **Avoider → Build Windows Showcase** to produce `Builds/Windows/AvoiderShowcase.exe`. Share the entire Windows build directory, not just the executable. Build outputs and local reports are excluded from Git.
 
-## Submission
-
-- GitHub repository: **pending repository selection**.
-- Group members: **pending names from the group** (see `GROUP_MEMBERS.md`).
-- Plug-in source: included under `PluginSource/`.
-- Video: recorded and submitted by the student.
-
-See `Docs/SubmissionChecklist.md` for a short demonstration outline and repository instructions.
 
 ## References
 
